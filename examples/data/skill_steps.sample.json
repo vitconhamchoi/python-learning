@@ -1,0 +1,9 @@
+{
+  "name": "deploy_checklist",
+  "steps": [
+    "Chạy pytest",
+    "Chạy ruff check",
+    "Kiểm tra biến môi trường production",
+    "Ghi changelog"
+  ]
+}

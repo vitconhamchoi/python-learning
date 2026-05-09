@@ -1,0 +1,6 @@
+{
+  "app_name": "demo",
+  "version": "1.0.0",
+  "api_base": "https://httpbin.org",
+  "max_retries": 3
+}
